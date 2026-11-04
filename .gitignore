@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+reports/
+**/sim/work/
+**/modelsim.ini
+**/transcript
+*.wlf
+*.bak
+dual_audio/impl/*
+!dual_audio/impl/f1_dual_process_config.json
+dual_audio/serial_dual.hex
+dual_audio/pcm_dual.txt
+host/player_settings.json
+usb_audio/python_deps/

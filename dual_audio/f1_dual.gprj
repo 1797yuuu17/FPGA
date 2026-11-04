@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project><Template>FPGA</Template><Version>5</Version><Device name="GW1N-9C" pn="GW1N-UV9EQ144C6/I5">gw1n9c-024</Device><FileList>
+<File path="../src/top_dual.v" type="file.verilog" enable="1"/>
+<File path="../src/performance_ctrl_usb.v" type="file.verilog" enable="1"/>
+<File path="../src/arp_engine.v" type="file.verilog" enable="1"/>
+<File path="../src/event_recorder_usb.v" type="file.verilog" enable="1"/>
+<File path="../src/synth_core.v" type="file.verilog" enable="1"/>
+<File path="../src/waveform.v" type="file.verilog" enable="1"/>
+<File path="../src/mixer_pipe.v" type="file.verilog" enable="1"/>
+<File path="../src/mixer.v" type="file.verilog" enable="1"/>
+<File path="../src/pcm_decimator.v" type="file.verilog" enable="1"/>
+<File path="../src/pcm_packetizer.v" type="file.verilog" enable="1"/>
+<File path="../src/uart_tx.v" type="file.verilog" enable="1"/>
+<File path="../constraints/f1_usb.cst" type="file.cst" enable="1"/>
+<File path="../constraints/f1.sdc" type="file.sdc" enable="1"/>
+</FileList></Project>
